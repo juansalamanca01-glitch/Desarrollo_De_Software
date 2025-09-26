@@ -1,0 +1,41 @@
+🔹 Ejemplos de aplicaciones móviles
+
+Aplicaciones de redes sociales
+
+Instagram, TikTok, Facebook → permiten compartir fotos, videos y comunicarse en tiempo real.
+
+Aplicaciones de mensajería
+
+WhatsApp, Telegram → permiten enviar mensajes, notas de voz, videollamadas y compartir archivos.
+
+Aplicaciones de transporte
+
+Uber, DiDi, Cabify → conectan pasajeros con conductores mediante geolocalización.
+
+Aplicaciones bancarias y fintech
+
+Nequi, Daviplata, Bancolombia App → permiten transferir dinero, pagar facturas y controlar finanzas.
+
+Aplicaciones de salud y deporte
+
+Runtastic, MyFitnessPal, FitBit → ayudan a controlar actividad física, dieta y salud.
+
+🔹 Ejemplos de tecnologías usadas en desarrollo móvil
+
+Nativo Android (Java/Kotlin) → para crear apps solo en Android.
+
+Nativo iOS (Swift/Objective-C) → para crear apps solo en iPhone/iPad.
+
+Multiplataforma (Flutter, React Native, Ionic) → para crear apps que funcionan en Android e iOS con el mismo código.
+
+🔹 Ejemplos de proyectos pequeños de desarrollo móvil
+
+App de notas → guardar, editar y eliminar notas con recordatorios.
+
+App de recetas → lista de comidas con pasos e ingredientes.
+
+App de clima → muestra la temperatura y el pronóstico usando una API.
+
+App de lista de tareas (To-Do List) → permite organizar pendientes diarios.
+
+Juego simple → como el clásico "Tres en Raya" (Tic-Tac-Toe) o un quiz de preguntas.
